@@ -1,0 +1,10 @@
+title: Minh Nghia Nguyen
+email: m.nghia.n@gmail.com
+description: "Minh Nghia Nguyen's homepage"
+baseurl: ""
+url: "" 
+avatar: assets/images/avatar.jpg
+
+# Build settings
+remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]
